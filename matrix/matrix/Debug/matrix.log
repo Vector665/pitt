@@ -1,0 +1,28 @@
+﻿Сборка начата 18.06.2019 8:14:26.
+     1>Проект "c:\Users\Vector\documents\visual studio 2013\Projects\matrix\matrix\matrix.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\matrix.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt matrix.cpp
+         matrix.cpp
+     1>c:\users\vector\documents\visual studio 2013\projects\matrix\matrix\matrix.cpp(35): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>c:\users\vector\documents\visual studio 2013\projects\matrix\matrix\matrix.cpp(40): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>c:\users\vector\documents\visual studio 2013\projects\matrix\matrix\matrix.cpp(53): warning C4800: double: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>c:\users\vector\documents\visual studio 2013\projects\matrix\matrix\matrix.cpp(138): warning C4172: возвращение адреса локальной или временной переменной
+     1>c:\users\vector\documents\visual studio 2013\projects\matrix\matrix\matrix.cpp(151): warning C4172: возвращение адреса локальной или временной переменной
+     1>c:\users\vector\documents\visual studio 2013\projects\matrix\matrix\matrix.cpp(166): warning C4172: возвращение адреса локальной или временной переменной
+     1>c:\users\vector\documents\visual studio 2013\projects\matrix\matrix\matrix.cpp(179): warning C4172: возвращение адреса локальной или временной переменной
+     1>c:\users\vector\documents\visual studio 2013\projects\matrix\matrix\matrix.cpp(192): warning C4172: возвращение адреса локальной или временной переменной
+     1>c:\users\vector\documents\visual studio 2013\projects\matrix\matrix\matrix.cpp(207): warning C4172: возвращение адреса локальной или временной переменной
+     1>c:\users\vector\documents\visual studio 2013\projects\matrix\matrix\matrix.cpp(222): warning C4172: возвращение адреса локальной или временной переменной
+     1>c:\users\vector\documents\visual studio 2013\projects\matrix\matrix\matrix.cpp(242): warning C4172: возвращение адреса локальной или временной переменной
+     1>c:\users\vector\documents\visual studio 2013\projects\matrix\matrix\matrix.cpp(256): warning C4172: возвращение адреса локальной или временной переменной
+     1>c:\users\vector\documents\visual studio 2013\projects\matrix\matrix\matrix.cpp(269): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\vector\documents\visual studio 2013\projects\matrix\matrix\matrix.cpp(275): warning C4172: возвращение адреса локальной или временной переменной
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\vector\documents\visual studio 2013\Projects\matrix\Debug\matrix.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\vector\documents\visual studio 2013\Projects\matrix\Debug\matrix.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\vector\documents\visual studio 2013\Projects\matrix\Debug\matrix.lib" /MACHINE:X86 Debug\matrix.obj
+         Debug\stdafx.obj
+         matrix.vcxproj -> c:\users\vector\documents\visual studio 2013\Projects\matrix\Debug\matrix.exe
+     1>Сборка проекта "c:\Users\Vector\documents\visual studio 2013\Projects\matrix\matrix\matrix.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.13
